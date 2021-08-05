@@ -1,7 +1,9 @@
+# Project Title
 
-# javascript
-//cara membuat proyek baru node js
-1. buat folder baru
-2. masuk ke folder dengan cmd atau git bash
-3. di dalam cmd atau git bash ketik npm init
-4. lalu npm install
+One Paragraph of project description goes here
+
+## Getting Started
+
+These instruction will get you a copy of the project up and running on your local
+machine for development and testing purposes. See deployment for notes on how
+to deploy the project on a live system.
